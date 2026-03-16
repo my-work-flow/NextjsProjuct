@@ -1,4 +1,4 @@
-import LikeButton from "../../../components/LikeButton"; // 1. እዚህ ጋር ኢምፖርት አድርገው
+import LikeButton from "../../components/LikeButton"; // 1. እዚህ ጋር ኢምፖርት አድርገው
 
 // 1. የ Props አይነቱን (Type) ለ Next.js 15 በሚሆን መልኩ እናስተካክል
 type Props = {
